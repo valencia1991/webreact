@@ -1,6 +1,14 @@
 body {
   font-family: Helvetica, Arial, sans-serif;
 }
+
+#logo{
+  border-radius: 45px;
+  width: 400px;
+  height: 250px;
+
+}
+
 .colorppal {
   color: darkblue;
   text-align: center;
